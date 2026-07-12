@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/keshav0774/DSA_LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2367-number-of-arithmetic-triplets](https://github.com/keshav0774/DSA_LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/keshav0774/DSA_LeetCode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
+| [2942-find-words-containing-character](https://github.com/keshav0774/DSA_LeetCode/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/keshav0774/DSA_LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/keshav0774/DSA_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2942-find-words-containing-character](https://github.com/keshav0774/DSA_LeetCode/tree/master/2942-find-words-containing-character) |
 ## Math
 |  |
 | ------- |
