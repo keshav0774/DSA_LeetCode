@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/keshav0774/DSA_LeetCode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2942-find-words-containing-character](https://github.com/keshav0774/DSA_LeetCode/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/keshav0774/DSA_LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/keshav0774/DSA_LeetCode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,4 +119,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/keshav0774/DSA_LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/keshav0774/DSA_LeetCode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 <!---LeetCode Topics End-->
