@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/keshav0774/DSA_LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/0213-house-robber-ii) |
+| [0992-subarrays-with-k-different-integers](https://github.com/keshav0774/DSA_LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/keshav0774/DSA_LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2367-number-of-arithmetic-triplets](https://github.com/keshav0774/DSA_LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/keshav0774/DSA_LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/keshav0774/DSA_LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/keshav0774/DSA_LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -118,6 +120,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/keshav0774/DSA_LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/keshav0774/DSA_LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/keshav0774/DSA_LeetCode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/keshav0774/DSA_LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
