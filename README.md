@@ -80,12 +80,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/keshav0774/DSA_LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/keshav0774/DSA_LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0993-cousins-in-binary-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/0993-cousins-in-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/keshav0774/DSA_LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/0993-cousins-in-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
@@ -98,12 +100,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/keshav0774/DSA_LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/keshav0774/DSA_LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/keshav0774/DSA_LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/keshav0774/DSA_LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0993-cousins-in-binary-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/0993-cousins-in-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Hash Table
 |  |
