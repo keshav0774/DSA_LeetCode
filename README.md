@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/keshav0774/DSA_LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/keshav0774/DSA_LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/keshav0774/DSA_LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0993-cousins-in-binary-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/0993-cousins-in-binary-tree) |
@@ -98,12 +99,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/keshav0774/DSA_LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/keshav0774/DSA_LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/keshav0774/DSA_LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/keshav0774/DSA_LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/keshav0774/DSA_LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/keshav0774/DSA_LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0993-cousins-in-binary-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/0993-cousins-in-binary-tree) |
