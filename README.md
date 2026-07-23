@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/keshav0774/DSA_LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1763-longest-nice-substring](https://github.com/keshav0774/DSA_LeetCode/tree/master/1763-longest-nice-substring) |
 | [2367-number-of-arithmetic-triplets](https://github.com/keshav0774/DSA_LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/keshav0774/DSA_LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/keshav0774/DSA_LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/keshav0774/DSA_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1763-longest-nice-substring](https://github.com/keshav0774/DSA_LeetCode/tree/master/1763-longest-nice-substring) |
 | [2942-find-words-containing-character](https://github.com/keshav0774/DSA_LeetCode/tree/master/2942-find-words-containing-character) |
 ## Math
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/keshav0774/DSA_LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1763-longest-nice-substring](https://github.com/keshav0774/DSA_LeetCode/tree/master/1763-longest-nice-substring) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/keshav0774/DSA_LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/keshav0774/DSA_LeetCode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Counting
@@ -193,4 +196,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/keshav0774/DSA_LeetCode/tree/master/0622-design-circular-queue) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/keshav0774/DSA_LeetCode/tree/master/1763-longest-nice-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/keshav0774/DSA_LeetCode/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
