@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/keshav0774/DSA_LeetCode/tree/master/0018-4sum) |
 | [1331-rank-transform-of-an-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/keshav0774/DSA_LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3536-maximum-product-of-two-digits](https://github.com/keshav0774/DSA_LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/keshav0774/DSA_LeetCode/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/keshav0774/DSA_LeetCode/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/keshav0774/DSA_LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
