@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/keshav0774/DSA_LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/keshav0774/DSA_LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/keshav0774/DSA_LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2367-number-of-arithmetic-triplets](https://github.com/keshav0774/DSA_LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/keshav0774/DSA_LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/keshav0774/DSA_LeetCode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/keshav0774/DSA_LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1763-longest-nice-substring](https://github.com/keshav0774/DSA_LeetCode/tree/master/1763-longest-nice-substring) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/keshav0774/DSA_LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2367-number-of-arithmetic-triplets](https://github.com/keshav0774/DSA_LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/keshav0774/DSA_LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/keshav0774/DSA_LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1763-longest-nice-substring](https://github.com/keshav0774/DSA_LeetCode/tree/master/1763-longest-nice-substring) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/keshav0774/DSA_LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2942-find-words-containing-character](https://github.com/keshav0774/DSA_LeetCode/tree/master/2942-find-words-containing-character) |
 ## Math
 |  |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/keshav0774/DSA_LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/keshav0774/DSA_LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Number Theory
 |  |
 | ------- |
