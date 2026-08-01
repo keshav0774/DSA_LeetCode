@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/keshav0774/DSA_LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/keshav0774/DSA_LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/keshav0774/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/keshav0774/DSA_LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/keshav0774/DSA_LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/keshav0774/DSA_LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/keshav0774/DSA_LeetCode/tree/master/0018-4sum) |
+| [0229-majority-element-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/keshav0774/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/keshav0774/DSA_LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/keshav0774/DSA_LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/keshav0774/DSA_LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0229-majority-element-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/keshav0774/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0992-subarrays-with-k-different-integers](https://github.com/keshav0774/DSA_LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/keshav0774/DSA_LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/keshav0774/DSA_LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Number Theory
