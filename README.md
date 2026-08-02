@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/keshav0774/DSA_LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1122-relative-sort-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1539-kth-missing-positive-number](https://github.com/keshav0774/DSA_LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/keshav0774/DSA_LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/keshav0774/DSA_LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/keshav0774/DSA_LeetCode/tree/master/0704-binary-search) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1539-kth-missing-positive-number](https://github.com/keshav0774/DSA_LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/keshav0774/DSA_LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Tree
 |  |
