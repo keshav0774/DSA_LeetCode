@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/keshav0774/DSA_LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/keshav0774/DSA_LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/keshav0774/DSA_LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0993-cousins-in-binary-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/keshav0774/DSA_LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/keshav0774/DSA_LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/keshav0774/DSA_LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/keshav0774/DSA_LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0993-cousins-in-binary-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
