@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/keshav0774/DSA_LeetCode/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/keshav0774/DSA_LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/keshav0774/DSA_LeetCode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3731-find-missing-elements](https://github.com/keshav0774/DSA_LeetCode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/keshav0774/DSA_LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3536-maximum-product-of-two-digits](https://github.com/keshav0774/DSA_LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/keshav0774/DSA_LeetCode/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/keshav0774/DSA_LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/keshav0774/DSA_LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3731-find-missing-elements](https://github.com/keshav0774/DSA_LeetCode/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
 | ------- |
