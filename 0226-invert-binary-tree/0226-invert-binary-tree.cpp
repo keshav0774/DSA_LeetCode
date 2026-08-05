@@ -11,21 +11,23 @@
  */
 class Solution {
 public:
+void solve(TreeNode* root){
+    if(!root) return ; 
+
+    TreeNode* temp = root->left;
+    root->left = root->right;
+    root->right = temp;
+
+    solve(root->left);
+    solve(root->right);
+    return ;
+}
     TreeNode* invertTree(TreeNode* root) {
         
         if(!root) return nullptr;
 
-        queue<TreeNode*>qu;
-        qu.push(root);
-        while(!qu.empty()){
-             TreeNode* node = qu.front();
-             qu.pop();
-               TreeNode* temp = node->left;
-               node->left = node->right;
-               node->right = temp;
-               if(node->left) qu.push(node->left);
-               if(node->right) qu.push(node->right);
-        }
+        solve(root);
+
         return root;
     }
 };
