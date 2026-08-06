@@ -11,22 +11,30 @@
  */
 class Solution {
 public:
-int getHeight(TreeNode* root){
-    if(!root) return 0;
+int calculate(TreeNode* root, vector<int>& left , vector<int>& right){
+    if(!root) return 0; 
 
-    int leftHeight = getHeight(root->left);
-    int rightHeight = getHeight(root->right);
+    if(!root->left && !root->right) return 1; 
 
-    if(leftHeight == -1 || rightHeight == -1) return -1;
+    int leftHeight = calculate(root->left , left,right); 
+    int rightHeight = calculate(root->right , left , right);
 
-    if(abs(leftHeight - rightHeight)>1) return -1;
+    left.push_back(leftHeight); 
+    right.push_back(rightHeight); 
 
     return 1+max(leftHeight , rightHeight);
 }
     bool isBalanced(TreeNode* root) {
-        if(!root) return true;
+      
+       if(!root) return true;
 
-        return getHeight(root) != -1;
+       vector<int>left; 
+       vector<int>right; 
+       calculate(root, left, right);
+       for(int i=0; i<left.size(); i++){
+        if(abs(left[i] - right[i]) > 1) return false;
+       }
+       return true;
         
     }
 };
