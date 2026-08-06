@@ -11,16 +11,20 @@
  */
 class Solution {
 public:
-int calculate(TreeNode* root, vector<int>& left , vector<int>& right){
+int calculate(TreeNode* root){
     if(!root) return 0; 
 
     if(!root->left && !root->right) return 1; 
 
-    int leftHeight = calculate(root->left , left,right); 
-    int rightHeight = calculate(root->right , left , right);
+    int leftHeight = calculate(root->left); 
+    int rightHeight = calculate(root->right );
+     
+    if(leftHeight == -1 || rightHeight == -1) return -1; // indicate that tree is unbalanced;
 
-    left.push_back(leftHeight); 
-    right.push_back(rightHeight); 
+    if(abs(leftHeight - rightHeight)>1) return -1;
+
+    return 1 + max(leftHeight , rightHeight);
+     
 
     return 1+max(leftHeight , rightHeight);
 }
@@ -28,13 +32,7 @@ int calculate(TreeNode* root, vector<int>& left , vector<int>& right){
       
        if(!root) return true;
 
-       vector<int>left; 
-       vector<int>right; 
-       calculate(root, left, right);
-       for(int i=0; i<left.size(); i++){
-        if(abs(left[i] - right[i]) > 1) return false;
-       }
-       return true;
+      return (calculate(root) != -1);
         
     }
 };
