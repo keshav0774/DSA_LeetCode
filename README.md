@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/keshav0774/DSA_LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/keshav0774/DSA_LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/keshav0774/DSA_LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/keshav0774/DSA_LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/keshav0774/DSA_LeetCode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/keshav0774/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0697-degree-of-an-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/0697-degree-of-an-array) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/keshav0774/DSA_LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/keshav0774/DSA_LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1763-longest-nice-substring](https://github.com/keshav0774/DSA_LeetCode/tree/master/1763-longest-nice-substring) |
