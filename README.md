@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/keshav0774/DSA_LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/keshav0774/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/keshav0774/DSA_LeetCode/tree/master/0389-find-the-difference) |
 | [0646-maximum-length-of-pair-chain](https://github.com/keshav0774/DSA_LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1122-relative-sort-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/keshav0774/DSA_LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/keshav0774/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/keshav0774/DSA_LeetCode/tree/master/0389-find-the-difference) |
 | [0697-degree-of-an-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/0697-degree-of-an-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/keshav0774/DSA_LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1122-relative-sort-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1122-relative-sort-array) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/keshav0774/DSA_LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/keshav0774/DSA_LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/keshav0774/DSA_LeetCode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/keshav0774/DSA_LeetCode/tree/master/0389-find-the-difference) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/keshav0774/DSA_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/keshav0774/DSA_LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/keshav0774/DSA_LeetCode/tree/master/0389-find-the-difference) |
 | [1763-longest-nice-substring](https://github.com/keshav0774/DSA_LeetCode/tree/master/1763-longest-nice-substring) |
 ## Counting Sort
 |  |
