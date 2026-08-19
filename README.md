@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/keshav0774/DSA_LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/keshav0774/DSA_LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/keshav0774/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/keshav0774/DSA_LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1122-relative-sort-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1122-relative-sort-array) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/keshav0774/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/keshav0774/DSA_LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/keshav0774/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0697-degree-of-an-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/0697-degree-of-an-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/keshav0774/DSA_LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/keshav0774/DSA_LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/keshav0774/DSA_LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/keshav0774/DSA_LeetCode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/keshav0774/DSA_LeetCode/tree/master/0242-valid-anagram) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/keshav0774/DSA_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/keshav0774/DSA_LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
