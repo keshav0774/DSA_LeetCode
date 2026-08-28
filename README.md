@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/keshav0774/DSA_LeetCode/tree/master/0724-find-pivot-index) |
 | [0992-subarrays-with-k-different-integers](https://github.com/keshav0774/DSA_LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1122-relative-sort-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1122-relative-sort-array) |
+| [1131-maximum-of-absolute-value-expression](https://github.com/keshav0774/DSA_LeetCode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1331-rank-transform-of-an-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/keshav0774/DSA_LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/keshav0774/DSA_LeetCode/tree/master/1539-kth-missing-positive-number) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/keshav0774/DSA_LeetCode/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/keshav0774/DSA_LeetCode/tree/master/0509-fibonacci-number) |
+| [1131-maximum-of-absolute-value-expression](https://github.com/keshav0774/DSA_LeetCode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/keshav0774/DSA_LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/keshav0774/DSA_LeetCode/tree/master/3536-maximum-product-of-two-digits) |
