@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/keshav0774/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/keshav0774/DSA_LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/keshav0774/DSA_LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/keshav0774/DSA_LeetCode/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keshav0774/DSA_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/keshav0774/DSA_LeetCode/tree/master/0054-spiral-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/keshav0774/DSA_LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2390-removing-stars-from-a-string](https://github.com/keshav0774/DSA_LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/keshav0774/DSA_LeetCode/tree/master/0054-spiral-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/keshav0774/DSA_LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Doubly-Linked List
 |  |
