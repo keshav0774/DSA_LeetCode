@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/keshav0774/DSA_LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/keshav0774/DSA_LeetCode/tree/master/2404-most-frequent-even-element) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/keshav0774/DSA_LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/keshav0774/DSA_LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/keshav0774/DSA_LeetCode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2942-find-words-containing-character](https://github.com/keshav0774/DSA_LeetCode/tree/master/2942-find-words-containing-character) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/keshav0774/DSA_LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/keshav0774/DSA_LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/keshav0774/DSA_LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/keshav0774/DSA_LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3146-permutation-difference-between-two-strings](https://github.com/keshav0774/DSA_LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3731-find-missing-elements](https://github.com/keshav0774/DSA_LeetCode/tree/master/3731-find-missing-elements) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/keshav0774/DSA_LeetCode/tree/master/0389-find-the-difference) |
 | [1763-longest-nice-substring](https://github.com/keshav0774/DSA_LeetCode/tree/master/1763-longest-nice-substring) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/keshav0774/DSA_LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Counting Sort
 |  |
 | ------- |
