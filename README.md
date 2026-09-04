@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/keshav0774/DSA_LeetCode/tree/master/0002-add-two-numbers) |
+| [0492-construct-the-rectangle](https://github.com/keshav0774/DSA_LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/keshav0774/DSA_LeetCode/tree/master/0509-fibonacci-number) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/keshav0774/DSA_LeetCode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/keshav0774/DSA_LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
