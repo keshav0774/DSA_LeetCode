@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/keshav0774/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/keshav0774/DSA_LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/keshav0774/DSA_LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/keshav0774/DSA_LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0622-design-circular-queue](https://github.com/keshav0774/DSA_LeetCode/tree/master/0622-design-circular-queue) |
 | [0646-maximum-length-of-pair-chain](https://github.com/keshav0774/DSA_LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0697-degree-of-an-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/0697-degree-of-an-array) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/keshav0774/DSA_LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/keshav0774/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/keshav0774/DSA_LeetCode/tree/master/0389-find-the-difference) |
+| [0523-continuous-subarray-sum](https://github.com/keshav0774/DSA_LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0697-degree-of-an-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/keshav0774/DSA_LeetCode/tree/master/0771-jewels-and-stones) |
 | [0992-subarrays-with-k-different-integers](https://github.com/keshav0774/DSA_LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/keshav0774/DSA_LeetCode/tree/master/0223-rectangle-area) |
 | [0492-construct-the-rectangle](https://github.com/keshav0774/DSA_LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/keshav0774/DSA_LeetCode/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/keshav0774/DSA_LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/keshav0774/DSA_LeetCode/tree/master/0836-rectangle-overlap) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/keshav0774/DSA_LeetCode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/keshav0774/DSA_LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/keshav0774/DSA_LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/keshav0774/DSA_LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/keshav0774/DSA_LeetCode/tree/master/0724-find-pivot-index) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/keshav0774/DSA_LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Union-Find
@@ -469,4 +473,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0223-rectangle-area](https://github.com/keshav0774/DSA_LeetCode/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/keshav0774/DSA_LeetCode/tree/master/0836-rectangle-overlap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/keshav0774/DSA_LeetCode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
