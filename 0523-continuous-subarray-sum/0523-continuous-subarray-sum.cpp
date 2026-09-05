@@ -7,13 +7,10 @@ public:
         unordered_map<int,int>ma;
         ma[0] = -1;
         for(int i=0; i<nums.size(); i++){
-
             prefixSum += nums[i]; 
-
             int rem = prefixSum%k;
-            if(ma.find(rem) != ma.end()){
-                int index = ma[rem]; 
-                if(i - index >= 2) return true; 
+            if(ma.find(rem) != ma.end()){ 
+                if(i -  ma[rem] >= 2) return true; 
             }
              else ma[rem] = i;
         }
