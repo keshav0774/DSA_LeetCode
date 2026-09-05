@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/keshav0774/DSA_LeetCode/tree/master/0002-add-two-numbers) |
+| [0223-rectangle-area](https://github.com/keshav0774/DSA_LeetCode/tree/master/0223-rectangle-area) |
 | [0492-construct-the-rectangle](https://github.com/keshav0774/DSA_LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/keshav0774/DSA_LeetCode/tree/master/0509-fibonacci-number) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/keshav0774/DSA_LeetCode/tree/master/1131-maximum-of-absolute-value-expression) |
@@ -462,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/keshav0774/DSA_LeetCode/tree/master/0020-valid-parentheses) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/keshav0774/DSA_LeetCode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
