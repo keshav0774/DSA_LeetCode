@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/keshav0774/DSA_LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/keshav0774/DSA_LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/keshav0774/DSA_LeetCode/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/keshav0774/DSA_LeetCode/tree/master/0412-fizz-buzz) |
 | [0606-construct-string-from-binary-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0771-jewels-and-stones](https://github.com/keshav0774/DSA_LeetCode/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/keshav0774/DSA_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/keshav0774/DSA_LeetCode/tree/master/0002-add-two-numbers) |
 | [0223-rectangle-area](https://github.com/keshav0774/DSA_LeetCode/tree/master/0223-rectangle-area) |
+| [0412-fizz-buzz](https://github.com/keshav0774/DSA_LeetCode/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/keshav0774/DSA_LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/keshav0774/DSA_LeetCode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/keshav0774/DSA_LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/keshav0774/DSA_LeetCode/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/keshav0774/DSA_LeetCode/tree/master/0412-fizz-buzz) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/keshav0774/DSA_LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2390-removing-stars-from-a-string](https://github.com/keshav0774/DSA_LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
