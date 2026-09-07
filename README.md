@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1131-maximum-of-absolute-value-expression](https://github.com/keshav0774/DSA_LeetCode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/keshav0774/DSA_LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/keshav0774/DSA_LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/keshav0774/DSA_LeetCode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/keshav0774/DSA_LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
