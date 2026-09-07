@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/keshav0774/DSA_LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/keshav0774/DSA_LeetCode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/keshav0774/DSA_LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/keshav0774/DSA_LeetCode/tree/master/2469-convert-the-temperature) |
 | [3536-maximum-product-of-two-digits](https://github.com/keshav0774/DSA_LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/keshav0774/DSA_LeetCode/tree/master/2413-smallest-even-multiple) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
