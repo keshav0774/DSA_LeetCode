@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/keshav0774/DSA_LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Depth-First Search
 |  |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/keshav0774/DSA_LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/keshav0774/DSA_LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Hash Table
 |  |
