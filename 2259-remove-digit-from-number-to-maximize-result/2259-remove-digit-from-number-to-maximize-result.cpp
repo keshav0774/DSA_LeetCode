@@ -4,7 +4,6 @@ public:
           
         string ans = "";
         for(int i=0; i<number.size(); i++){
-            string num = number;
             if(number[i] == digit){
                 string temp = number;
                 temp.erase(i,1);
