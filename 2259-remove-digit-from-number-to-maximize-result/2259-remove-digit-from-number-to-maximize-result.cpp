@@ -3,7 +3,7 @@ public:
     string removeDigit(string number, char digit) {
           
         string ans = "";
-        for(int i = number.size()-1; i>=0; i--){
+        for(int i=0; i<number.size(); i++){
             string num = number;
             if(number[i] == digit){
                 string temp = number;
