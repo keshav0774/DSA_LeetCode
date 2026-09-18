@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/keshav0774/DSA_LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0389-find-the-difference](https://github.com/keshav0774/DSA_LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/keshav0774/DSA_LeetCode/tree/master/0412-fizz-buzz) |
+| [0520-detect-capital](https://github.com/keshav0774/DSA_LeetCode/tree/master/0520-detect-capital) |
 | [0606-construct-string-from-binary-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0709-to-lower-case](https://github.com/keshav0774/DSA_LeetCode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/keshav0774/DSA_LeetCode/tree/master/0771-jewels-and-stones) |
