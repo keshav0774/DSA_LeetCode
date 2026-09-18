@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/keshav0774/DSA_LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/keshav0774/DSA_LeetCode/tree/master/0724-find-pivot-index) |
 | [0992-subarrays-with-k-different-integers](https://github.com/keshav0774/DSA_LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1051-height-checker](https://github.com/keshav0774/DSA_LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1122-relative-sort-array) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/keshav0774/DSA_LeetCode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/keshav0774/DSA_LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/keshav0774/DSA_LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/keshav0774/DSA_LeetCode/tree/master/0414-third-maximum-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/keshav0774/DSA_LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [1051-height-checker](https://github.com/keshav0774/DSA_LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/keshav0774/DSA_LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/keshav0774/DSA_LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1122-relative-sort-array) |
 ## Quickselect
 |  |
@@ -517,4 +520,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/keshav0774/DSA_LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/keshav0774/DSA_LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
