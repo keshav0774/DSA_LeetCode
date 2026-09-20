@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/keshav0774/DSA_LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0622-design-circular-queue](https://github.com/keshav0774/DSA_LeetCode/tree/master/0622-design-circular-queue) |
 | [0646-maximum-length-of-pair-chain](https://github.com/keshav0774/DSA_LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/keshav0774/DSA_LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/keshav0774/DSA_LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/keshav0774/DSA_LeetCode/tree/master/0724-find-pivot-index) |
