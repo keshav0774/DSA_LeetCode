@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/keshav0774/DSA_LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/keshav0774/DSA_LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/keshav0774/DSA_LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1929-concatenation-of-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/keshav0774/DSA_LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/keshav0774/DSA_LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/keshav0774/DSA_LeetCode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/keshav0774/DSA_LeetCode/tree/master/0412-fizz-buzz) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/keshav0774/DSA_LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1929-concatenation-of-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1929-concatenation-of-array) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/keshav0774/DSA_LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2211-count-collisions-on-a-road](https://github.com/keshav0774/DSA_LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2390-removing-stars-from-a-string](https://github.com/keshav0774/DSA_LeetCode/tree/master/2390-removing-stars-from-a-string) |
