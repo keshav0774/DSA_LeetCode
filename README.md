@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/keshav0774/DSA_LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/keshav0774/DSA_LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/keshav0774/DSA_LeetCode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/keshav0774/DSA_LeetCode/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keshav0774/DSA_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/keshav0774/DSA_LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/keshav0774/DSA_LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/keshav0774/DSA_LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/keshav0774/DSA_LeetCode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/keshav0774/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/keshav0774/DSA_LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -536,4 +538,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/keshav0774/DSA_LeetCode/tree/master/1051-height-checker) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/keshav0774/DSA_LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
