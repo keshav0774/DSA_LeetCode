@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/keshav0774/DSA_LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/keshav0774/DSA_LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/keshav0774/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0384-shuffle-an-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/0384-shuffle-an-array) |
 | [0414-third-maximum-number](https://github.com/keshav0774/DSA_LeetCode/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/keshav0774/DSA_LeetCode/tree/master/0436-find-right-interval) |
 | [0485-max-consecutive-ones](https://github.com/keshav0774/DSA_LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/keshav0774/DSA_LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/keshav0774/DSA_LeetCode/tree/master/0155-min-stack) |
+| [0384-shuffle-an-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/0384-shuffle-an-array) |
 | [0622-design-circular-queue](https://github.com/keshav0774/DSA_LeetCode/tree/master/0622-design-circular-queue) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/keshav0774/DSA_LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Tree
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/keshav0774/DSA_LeetCode/tree/master/0002-add-two-numbers) |
 | [0223-rectangle-area](https://github.com/keshav0774/DSA_LeetCode/tree/master/0223-rectangle-area) |
+| [0384-shuffle-an-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/0384-shuffle-an-array) |
 | [0412-fizz-buzz](https://github.com/keshav0774/DSA_LeetCode/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/keshav0774/DSA_LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/keshav0774/DSA_LeetCode/tree/master/0509-fibonacci-number) |
@@ -545,4 +548,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/keshav0774/DSA_LeetCode/tree/master/0056-merge-intervals) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
