@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/keshav0774/DSA_LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/keshav0774/DSA_LeetCode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/keshav0774/DSA_LeetCode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/keshav0774/DSA_LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0992-subarrays-with-k-different-integers](https://github.com/keshav0774/DSA_LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1051-height-checker](https://github.com/keshav0774/DSA_LeetCode/tree/master/1051-height-checker) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/keshav0774/DSA_LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/keshav0774/DSA_LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/keshav0774/DSA_LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/keshav0774/DSA_LeetCode/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/keshav0774/DSA_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/keshav0774/DSA_LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/keshav0774/DSA_LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/keshav0774/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/keshav0774/DSA_LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/keshav0774/DSA_LeetCode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/keshav0774/DSA_LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sorting
 |  |
