@@ -11,7 +11,7 @@ public:
             while(!st.empty() && nums[st.top()] <= nums[i]) {
                 st.pop();
             }
-            if(!st.empty() && nums[st.top()] > nums[i]){
+            if(!st.empty()){
                 ans[i] = st.top() - i;
             }
             st.push(i);
