@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/keshav0774/DSA_LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/keshav0774/DSA_LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0397-integer-replacement](https://github.com/keshav0774/DSA_LeetCode/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/keshav0774/DSA_LeetCode/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/keshav0774/DSA_LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/keshav0774/DSA_LeetCode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/keshav0774/DSA_LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0397-integer-replacement](https://github.com/keshav0774/DSA_LeetCode/tree/master/0397-integer-replacement) |
 | [0646-maximum-length-of-pair-chain](https://github.com/keshav0774/DSA_LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/keshav0774/DSA_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/keshav0774/DSA_LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/keshav0774/DSA_LeetCode/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/keshav0774/DSA_LeetCode/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/keshav0774/DSA_LeetCode/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/keshav0774/DSA_LeetCode/tree/master/0397-integer-replacement) |
 | [0645-set-mismatch](https://github.com/keshav0774/DSA_LeetCode/tree/master/0645-set-mismatch) |
 | [1763-longest-nice-substring](https://github.com/keshav0774/DSA_LeetCode/tree/master/1763-longest-nice-substring) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/keshav0774/DSA_LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
