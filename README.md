@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/keshav0774/DSA_LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/keshav0774/DSA_LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/keshav0774/DSA_LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0445-add-two-numbers-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/keshav0774/DSA_LeetCode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/keshav0774/DSA_LeetCode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/keshav0774/DSA_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/keshav0774/DSA_LeetCode/tree/master/0223-rectangle-area) |
 | [0384-shuffle-an-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/0384-shuffle-an-array) |
 | [0412-fizz-buzz](https://github.com/keshav0774/DSA_LeetCode/tree/master/0412-fizz-buzz) |
+| [0445-add-two-numbers-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0492-construct-the-rectangle](https://github.com/keshav0774/DSA_LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/keshav0774/DSA_LeetCode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/keshav0774/DSA_LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/keshav0774/DSA_LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/keshav0774/DSA_LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/keshav0774/DSA_LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0622-design-circular-queue](https://github.com/keshav0774/DSA_LeetCode/tree/master/0622-design-circular-queue) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/keshav0774/DSA_LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/keshav0774/DSA_LeetCode/tree/master/1669-merge-in-between-linked-lists) |
