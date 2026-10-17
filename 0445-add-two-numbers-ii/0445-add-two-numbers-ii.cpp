@@ -30,33 +30,21 @@ public:
         ListNode* ans = new ListNode(0);
         ListNode* prev = ans;
         int carry = 0;
-        while(first && second){
-            int sum = first->val + second->val + carry;
-              ans->next = new ListNode(sum%10);
-              carry = sum/10;
-              ans = ans->next;
+        while(first || second || carry){
+            int sum = carry;
+             
+            if(first){
+              sum += first->val;
               first = first->next;
+            }
+            if(second){
+              sum += second->val;
               second = second->next;
-        }
-        while(first){
-            int sum = first->val + carry;
+            }
             ans->next = new ListNode(sum%10);
             carry = sum/10;
-            first = first->next;
             ans = ans->next;
-        }
-        while(second){
-            int sum = second->val + carry;
-            ans->next = new ListNode(sum%10);
-            carry = sum/10;
-            second = second->next;
-            ans = ans->next;
-        }
-        if (carry) {
-            ans->next = new ListNode(carry);
         }
         return reverse(prev->next);
-
-
     }
 };
