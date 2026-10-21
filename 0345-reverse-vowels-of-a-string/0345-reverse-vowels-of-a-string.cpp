@@ -1,23 +1,23 @@
 class Solution {
 public:
+bool isLower(char c){
+    char lower = tolower(c);
+    return lower == 'a' || lower == 'e' || lower == 'i' || lower == 'o' || lower == 'u';
+}
     string reverseVowels(string nums) {
-        stack<char>st;
-        for(int i=0; i<nums.size(); i++){
-            if(nums[i] == 'a' || nums[i] == 'e' || nums[i] == 'i' || nums[i] == 'o' || nums[i] == 'u') st.push(nums[i]);
-            if(nums[i] == 'A' || nums[i] == 'E' || nums[i] == 'I' || nums[i] == 'O' || nums[i] == 'U') st.push(nums[i]);
-        }
-        int i=0, n = nums.size();
-        while(!st.empty() && i<n){
-            if(nums[i] == 'a' || nums[i] == 'e' || nums[i] == 'i' || nums[i] == 'o' || nums[i] == 'u')
-            {
-                nums[i] = st.top();
-                st.pop(); 
+        int left = 0, right = nums.size()-1;
+        while(left<right){
+            while(left < right && !isLower(nums[left])){
+                left++;
             }
-            else if(nums[i] == 'A' || nums[i] == 'E' || nums[i] == 'I' || nums[i] == 'O' || nums[i] == 'U'){
-                nums[i] = st.top();
-                st.pop();
+            while(right>left && !isLower(nums[right])){
+                right--;
             }
-            i++;
+
+            swap(nums[left], nums[right]);
+            if(left<right){
+                left++, right--;
+            }
         }
         return nums;
     }
