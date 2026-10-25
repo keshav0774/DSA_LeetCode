@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/keshav0774/DSA_LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1763-longest-nice-substring](https://github.com/keshav0774/DSA_LeetCode/tree/master/1763-longest-nice-substring) |
 | [1796-second-largest-digit-in-a-string](https://github.com/keshav0774/DSA_LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
+| [1844-replace-all-digits-with-characters](https://github.com/keshav0774/DSA_LeetCode/tree/master/1844-replace-all-digits-with-characters) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/keshav0774/DSA_LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2211-count-collisions-on-a-road](https://github.com/keshav0774/DSA_LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/keshav0774/DSA_LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
