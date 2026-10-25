@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/keshav0774/DSA_LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/keshav0774/DSA_LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1929-concatenation-of-array) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/keshav0774/DSA_LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/keshav0774/DSA_LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/keshav0774/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/keshav0774/DSA_LeetCode/tree/master/0844-backspace-string-compare) |
 | [0922-sort-array-by-parity-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/keshav0774/DSA_LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/keshav0774/DSA_LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/keshav0774/DSA_LeetCode/tree/master/1763-longest-nice-substring) |
 | [1796-second-largest-digit-in-a-string](https://github.com/keshav0774/DSA_LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1844-replace-all-digits-with-characters](https://github.com/keshav0774/DSA_LeetCode/tree/master/1844-replace-all-digits-with-characters) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/keshav0774/DSA_LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2211-count-collisions-on-a-road](https://github.com/keshav0774/DSA_LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/keshav0774/DSA_LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
