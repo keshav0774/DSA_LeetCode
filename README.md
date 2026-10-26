@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/keshav0774/DSA_LeetCode/tree/master/0002-add-two-numbers) |
 | [0223-rectangle-area](https://github.com/keshav0774/DSA_LeetCode/tree/master/0223-rectangle-area) |
+| [0263-ugly-number](https://github.com/keshav0774/DSA_LeetCode/tree/master/0263-ugly-number) |
 | [0384-shuffle-an-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/0384-shuffle-an-array) |
 | [0412-fizz-buzz](https://github.com/keshav0774/DSA_LeetCode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/0445-add-two-numbers-ii) |
