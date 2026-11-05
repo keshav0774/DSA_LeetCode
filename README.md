@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1131-maximum-of-absolute-value-expression](https://github.com/keshav0774/DSA_LeetCode/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/keshav0774/DSA_LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/keshav0774/DSA_LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/keshav0774/DSA_LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/keshav0774/DSA_LeetCode/tree/master/1539-kth-missing-positive-number) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/keshav0774/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/keshav0774/DSA_LeetCode/tree/master/0844-backspace-string-compare) |
 | [0922-sort-array-by-parity-ii](https://github.com/keshav0774/DSA_LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/keshav0774/DSA_LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/keshav0774/DSA_LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/keshav0774/DSA_LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/keshav0774/DSA_LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/keshav0774/DSA_LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/keshav0774/DSA_LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/keshav0774/DSA_LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2785-sort-vowels-in-a-string](https://github.com/keshav0774/DSA_LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/keshav0774/DSA_LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/keshav0774/DSA_LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/keshav0774/DSA_LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/keshav0774/DSA_LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/keshav0774/DSA_LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/keshav0774/DSA_LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Tree
